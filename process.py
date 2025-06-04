@@ -31,7 +31,7 @@ CLIENT = Mistral(api_key=API_KEY)
 ## Modèle Mistral
 MODEL = "mistral-large-latest"
 ## Nom d'auteur
-AUTHOR = ENV.get("AUTHOR_NAME", "François Patinec")
+AUTHOR = ENV.get("AUTHOR_NAME", "")
 
 def generer_contenu(prompt: str) -> str:
     """Génération de contenu via Mistral"""
