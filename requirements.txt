@@ -1,0 +1,8 @@
+md2pdf
+mistralai
+markdown
+python-dotenv
+duckduckgo-search
+langchain-community
+md2pdf
+
